@@ -11,10 +11,10 @@ window.onload = function() {
   const noun = ['jogger', 'racoon'];
   console.log("Hello Rigo from the console!");
 
-  for (const a of pronoun) {
-    for (const b of adj) {
-      for (const c of noun) {
-        console.log(a + b + c + '.com');
+  for (const theour of pronoun) {
+    for (const greatbig of adj) {
+      for (const joggerracoon of noun) {
+        console.log(theour + greatbig + joggerracoon + '.com');
       }
       
     }
